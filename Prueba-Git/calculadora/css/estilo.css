@@ -47,6 +47,8 @@
 .numeros{
 
 	padding: 18px 9px 18px 18px;
+	background: rgb(150,84,23);
+	background: linear-gradient(180deg, rgba(140,85,23,1) 0%, rgba(255,155,34,1) 27%);
 
 }
 
